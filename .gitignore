@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.task
+*.tflite
+pictures/*
+!pictures/PUT_YOUR_PICTURES_HERE.txt
